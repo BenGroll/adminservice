@@ -1,0 +1,5 @@
+{
+    "name": "Admin",
+    "link": "/admin",
+    "provider": "/src/ServiceProvider.pm"
+}
