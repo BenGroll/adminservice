@@ -1,5 +1,6 @@
 {
     "name": "Admin",
     "link": "/admin",
+    "onlyAdmin" : 1,
     "provider": "/src/ServiceProvider.pm"
 }

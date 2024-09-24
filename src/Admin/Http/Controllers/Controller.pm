@@ -23,7 +23,6 @@ sub dashboard {
     app()->pushToStack('scripts', servicePath('admin') . '/script.js');
 
     my $template = &_::template('admin::dashboard', {
-        #
     });
 
     return $template->output();
